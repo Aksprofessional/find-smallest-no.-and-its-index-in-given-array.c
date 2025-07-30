@@ -1,0 +1,1 @@
+# find-smallest-no.-and-its-index-in-given-array.c
